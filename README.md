@@ -1,1 +1,1 @@
-# deep_learning_spring_2024_group_4
+# deep_learning_spring_2025_group_4
